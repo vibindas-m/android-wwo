@@ -1,0 +1,308 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d4d9430f2b0672f937458ace02512215/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/48066adc7d297a29df3d6b197a061710/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/b704ec1330b8d2ffd6d1f29b53e612df/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1177baad7965b9c798b2ba139d58f5df/navigation-ui-ktx-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/07cd349539a75cc3fd998853e93d2f48/navigation-ui-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d8b7e220268d1e6e61e5c4d70260e4d8/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/de829c964bb7e0a81d7a8de6ed3cab7f/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/fe7e3c124f0e2db18a7980f64b1eb13f/navigation-fragment-ktx-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1e9177ddb3fa14b82ec33528decaacfa/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/0cfb419cafced96c03f14f5bafd75cfc/navigation-runtime-ktx-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/91c7fc35828a66112eeb2324233e3cf9/navigation-common-ktx-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2ee9009ace82ccb2eac550d8dc2c86ae/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/bf70ab8be3b980976cc4a6f789dd3052/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/3832696ccb46410fce1bbd3777eec63f/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/fceed5aafacb5d21a86f24b65a0c1dd1/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/0cba083d29887f6152ec4ed7865c559b/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.koin:koin-android:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d0c096b7c0eaa8edef47128c7a9d5611/jetified-koin-android-2.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/e082a16bef8d488ca5e01dc16db6e477/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.room:room-ktx:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ff4be5e7c59595c468a3db3746fa325e/jetified-room-ktx-2.2.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2781bfe588943cd3ad2f39f380c7a7cd/room-runtime-2.2.6/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/6d067b74b152bd68197676e3d62b221f/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d4f9cd0c04ba96bd9b672a85f9250f52/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/8a97c72a8add6da36f612552eddd2fa9/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/a2e5c40d57e9906e22a10c463f584c92/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/39817e80a25d7ec593f4a9084d372fdd/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1dfbbdb4c3ac71362a99f211b01951cc/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/592b7ebd3a0db4c059aaaadab106b652/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/47d45d5b6883fb400aadeba4ebeb9206/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/5b727faefe542da009e9e019db230815/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/7afb0c97a4fd0735e6f2c2b812de20b3/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/3f9c365306ec81f5904755ad93c17f41/navigation-fragment-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/b9098514bcfcf23a6406b5d1abe3a4d1/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ea01e7ad161097583fbb00b82b58525e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/4b81a3b65c24c10cac53afba5955a14b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2e6093377acde96f048344845e1331b2/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ca3af0129d9265b8e8b366e4075e5393/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/de6eaff9201e666f9b8b74200a9622bc/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/797e2daa602763ee9fd7bfea15130d5e/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/692117dca3a99391d8f3facfe19f5c59/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/f4cde79f6389bf4c6ce6b965be998795/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/96f7fe8de35a3164128cb78f12ff0be9/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/59f7163ed4819db05f3136555e17b7da/navigation-runtime-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/469d5a6ff090f4e9e3060ca3f64567a2/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/a1c9e99030ee66417399a90b0ddf536a/navigation-common-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2cdd870833ed3ba7a2859d703e515015/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c8ed7d4ce106891099945a2cb19cf6d3/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/426d1fa0fe56ff57fe0d6a77aaf45522/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/a77a1f4b928ada99189ebba628b04ad3/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/b8c0152368c417d36fe8407f5e77997b/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/aa8d2bdf25ab4931bc849c3c64189f16/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/74443f8f1f7ac0cf5040ec53b7ed0010/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ed8555200611014291526a5df03977f0/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d4586bb65108efeed1c8168f0b1d6f9f/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c17eb97663c85b0d9bed157c060b2410/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/f8374f7b764eb7d5760dc67bb709d7bb/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/cc205a5e02e3e61e1c5af42064958bbb/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1645a60176c7336eb7748df9ddedd517/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/dbf2ce5d397e84d5156206edc42ceef6/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/35390ee3d1f1b234f66e6e252f969e3d/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/955e69dfe54aa94a2cd9b2cc6cd2c6f1/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/de96b2a1f9193b027d5829c3053078db/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/585f0c283e910e641f24eebcdf47f182/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c4b28eab2d6754a4848ca897c74c8553/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d4d9430f2b0672f937458ace02512215/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d4d9430f2b0672f937458ace02512215/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/48066adc7d297a29df3d6b197a061710/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/48066adc7d297a29df3d6b197a061710/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/b704ec1330b8d2ffd6d1f29b53e612df/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/b704ec1330b8d2ffd6d1f29b53e612df/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d8b7e220268d1e6e61e5c4d70260e4d8/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d8b7e220268d1e6e61e5c4d70260e4d8/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/3832696ccb46410fce1bbd3777eec63f/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/3832696ccb46410fce1bbd3777eec63f/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/e082a16bef8d488ca5e01dc16db6e477/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/e082a16bef8d488ca5e01dc16db6e477/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.room:room-runtime:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2781bfe588943cd3ad2f39f380c7a7cd/room-runtime-2.2.6/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2781bfe588943cd3ad2f39f380c7a7cd/room-runtime-2.2.6/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.3.2] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2cdd870833ed3ba7a2859d703e515015/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2cdd870833ed3ba7a2859d703e515015/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c8ed7d4ce106891099945a2cb19cf6d3/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c8ed7d4ce106891099945a2cb19cf6d3/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/f8374f7b764eb7d5760dc67bb709d7bb/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/f8374f7b764eb7d5760dc67bb709d7bb/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/dbf2ce5d397e84d5156206edc42ceef6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/dbf2ce5d397e84d5156206edc42ceef6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2cdd870833ed3ba7a2859d703e515015/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:13:9-35
+activity#com.example.androidwwo.MainActivity
+ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d4d9430f2b0672f937458ace02512215/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d4d9430f2b0672f937458ace02512215/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/48066adc7d297a29df3d6b197a061710/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/48066adc7d297a29df3d6b197a061710/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/b704ec1330b8d2ffd6d1f29b53e612df/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/b704ec1330b8d2ffd6d1f29b53e612df/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1177baad7965b9c798b2ba139d58f5df/navigation-ui-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1177baad7965b9c798b2ba139d58f5df/navigation-ui-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/07cd349539a75cc3fd998853e93d2f48/navigation-ui-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/07cd349539a75cc3fd998853e93d2f48/navigation-ui-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d8b7e220268d1e6e61e5c4d70260e4d8/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d8b7e220268d1e6e61e5c4d70260e4d8/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/de829c964bb7e0a81d7a8de6ed3cab7f/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/de829c964bb7e0a81d7a8de6ed3cab7f/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/fe7e3c124f0e2db18a7980f64b1eb13f/navigation-fragment-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/fe7e3c124f0e2db18a7980f64b1eb13f/navigation-fragment-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1e9177ddb3fa14b82ec33528decaacfa/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1e9177ddb3fa14b82ec33528decaacfa/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/0cfb419cafced96c03f14f5bafd75cfc/navigation-runtime-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/0cfb419cafced96c03f14f5bafd75cfc/navigation-runtime-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/91c7fc35828a66112eeb2324233e3cf9/navigation-common-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/91c7fc35828a66112eeb2324233e3cf9/navigation-common-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2ee9009ace82ccb2eac550d8dc2c86ae/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2ee9009ace82ccb2eac550d8dc2c86ae/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/bf70ab8be3b980976cc4a6f789dd3052/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/bf70ab8be3b980976cc4a6f789dd3052/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/3832696ccb46410fce1bbd3777eec63f/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/3832696ccb46410fce1bbd3777eec63f/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/fceed5aafacb5d21a86f24b65a0c1dd1/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/fceed5aafacb5d21a86f24b65a0c1dd1/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/0cba083d29887f6152ec4ed7865c559b/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/0cba083d29887f6152ec4ed7865c559b/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-android:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d0c096b7c0eaa8edef47128c7a9d5611/jetified-koin-android-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d0c096b7c0eaa8edef47128c7a9d5611/jetified-koin-android-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/e082a16bef8d488ca5e01dc16db6e477/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/e082a16bef8d488ca5e01dc16db6e477/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.room:room-ktx:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ff4be5e7c59595c468a3db3746fa325e/jetified-room-ktx-2.2.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ff4be5e7c59595c468a3db3746fa325e/jetified-room-ktx-2.2.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2781bfe588943cd3ad2f39f380c7a7cd/room-runtime-2.2.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2781bfe588943cd3ad2f39f380c7a7cd/room-runtime-2.2.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/6d067b74b152bd68197676e3d62b221f/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/6d067b74b152bd68197676e3d62b221f/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d4f9cd0c04ba96bd9b672a85f9250f52/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d4f9cd0c04ba96bd9b672a85f9250f52/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/8a97c72a8add6da36f612552eddd2fa9/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/8a97c72a8add6da36f612552eddd2fa9/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/a2e5c40d57e9906e22a10c463f584c92/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/a2e5c40d57e9906e22a10c463f584c92/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/39817e80a25d7ec593f4a9084d372fdd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/39817e80a25d7ec593f4a9084d372fdd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1dfbbdb4c3ac71362a99f211b01951cc/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1dfbbdb4c3ac71362a99f211b01951cc/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/592b7ebd3a0db4c059aaaadab106b652/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/592b7ebd3a0db4c059aaaadab106b652/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/47d45d5b6883fb400aadeba4ebeb9206/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/47d45d5b6883fb400aadeba4ebeb9206/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/5b727faefe542da009e9e019db230815/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/5b727faefe542da009e9e019db230815/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/7afb0c97a4fd0735e6f2c2b812de20b3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/7afb0c97a4fd0735e6f2c2b812de20b3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/3f9c365306ec81f5904755ad93c17f41/navigation-fragment-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/3f9c365306ec81f5904755ad93c17f41/navigation-fragment-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/b9098514bcfcf23a6406b5d1abe3a4d1/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/b9098514bcfcf23a6406b5d1abe3a4d1/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ea01e7ad161097583fbb00b82b58525e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ea01e7ad161097583fbb00b82b58525e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/4b81a3b65c24c10cac53afba5955a14b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/4b81a3b65c24c10cac53afba5955a14b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2e6093377acde96f048344845e1331b2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2e6093377acde96f048344845e1331b2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ca3af0129d9265b8e8b366e4075e5393/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ca3af0129d9265b8e8b366e4075e5393/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/de6eaff9201e666f9b8b74200a9622bc/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/de6eaff9201e666f9b8b74200a9622bc/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/797e2daa602763ee9fd7bfea15130d5e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/797e2daa602763ee9fd7bfea15130d5e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/692117dca3a99391d8f3facfe19f5c59/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/692117dca3a99391d8f3facfe19f5c59/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/f4cde79f6389bf4c6ce6b965be998795/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/f4cde79f6389bf4c6ce6b965be998795/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/96f7fe8de35a3164128cb78f12ff0be9/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/96f7fe8de35a3164128cb78f12ff0be9/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/59f7163ed4819db05f3136555e17b7da/navigation-runtime-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/59f7163ed4819db05f3136555e17b7da/navigation-runtime-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/469d5a6ff090f4e9e3060ca3f64567a2/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/469d5a6ff090f4e9e3060ca3f64567a2/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/a1c9e99030ee66417399a90b0ddf536a/navigation-common-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.3] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/a1c9e99030ee66417399a90b0ddf536a/navigation-common-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2cdd870833ed3ba7a2859d703e515015/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2cdd870833ed3ba7a2859d703e515015/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c8ed7d4ce106891099945a2cb19cf6d3/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c8ed7d4ce106891099945a2cb19cf6d3/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/426d1fa0fe56ff57fe0d6a77aaf45522/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/426d1fa0fe56ff57fe0d6a77aaf45522/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/a77a1f4b928ada99189ebba628b04ad3/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/a77a1f4b928ada99189ebba628b04ad3/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/b8c0152368c417d36fe8407f5e77997b/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/b8c0152368c417d36fe8407f5e77997b/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/aa8d2bdf25ab4931bc849c3c64189f16/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/aa8d2bdf25ab4931bc849c3c64189f16/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/74443f8f1f7ac0cf5040ec53b7ed0010/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/74443f8f1f7ac0cf5040ec53b7ed0010/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ed8555200611014291526a5df03977f0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/ed8555200611014291526a5df03977f0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d4586bb65108efeed1c8168f0b1d6f9f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/d4586bb65108efeed1c8168f0b1d6f9f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c17eb97663c85b0d9bed157c060b2410/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c17eb97663c85b0d9bed157c060b2410/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/f8374f7b764eb7d5760dc67bb709d7bb/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/f8374f7b764eb7d5760dc67bb709d7bb/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/cc205a5e02e3e61e1c5af42064958bbb/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/cc205a5e02e3e61e1c5af42064958bbb/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1645a60176c7336eb7748df9ddedd517/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/1645a60176c7336eb7748df9ddedd517/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/dbf2ce5d397e84d5156206edc42ceef6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/dbf2ce5d397e84d5156206edc42ceef6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/35390ee3d1f1b234f66e6e252f969e3d/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/35390ee3d1f1b234f66e6e252f969e3d/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/955e69dfe54aa94a2cd9b2cc6cd2c6f1/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/955e69dfe54aa94a2cd9b2cc6cd2c6f1/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/de96b2a1f9193b027d5829c3053078db/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/de96b2a1f9193b027d5829c3053078db/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/585f0c283e910e641f24eebcdf47f182/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/585f0c283e910e641f24eebcdf47f182/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c4b28eab2d6754a4848ca897c74c8553/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c4b28eab2d6754a4848ca897c74c8553/cardview-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vibindas/Riderz/sample/AndroidWWO/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2781bfe588943cd3ad2f39f380c7a7cd/room-runtime-2.2.6/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2781bfe588943cd3ad2f39f380c7a7cd/room-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2781bfe588943cd3ad2f39f380c7a7cd/room-runtime-2.2.6/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.6] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/2781bfe588943cd3ad2f39f380c7a7cd/room-runtime-2.2.6/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c8ed7d4ce106891099945a2cb19cf6d3/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c8ed7d4ce106891099945a2cb19cf6d3/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c8ed7d4ce106891099945a2cb19cf6d3/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c8ed7d4ce106891099945a2cb19cf6d3/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/vibindas/.gradle/caches/transforms-2/files-2.1/c8ed7d4ce106891099945a2cb19cf6d3/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
